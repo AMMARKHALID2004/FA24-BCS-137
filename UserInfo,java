@@ -1,0 +1,19 @@
+import java.util.scanner
+
+
+public class UserInfo{
+	static String Email=FA24-BCS-137@cuilahore.edu.pk
+	static String Password=Cui@lahore;
+
+	public static void main(String args[]){
+	scanner sc=new scanner(System.in);
+	System.out.Println("Please Enter Your Email");
+	email=sc;
+		
+
+		}
+ 	
+
+
+
+	}
