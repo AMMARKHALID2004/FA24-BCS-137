@@ -1,0 +1,2 @@
+java -classpath JAVALAB\users\UserManager;JAVALAB\main\LoginSystem;JAVALAB\util\PasswordValidator LoginSystem
+javac JAVALAB\users\UserManager.java JAVALAB\main\LoginSystem.java JAVALAB\util\PasswordValidator.java
